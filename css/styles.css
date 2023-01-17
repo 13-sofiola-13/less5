@@ -1,0 +1,213 @@
+.conteineri1{
+	width: 1088px;
+	margin: 0 auto;
+}
+
+.conteineri2{
+	width: 1088px;
+	margin-top: 120px;
+	margin-left: auto; margin-right: auto;
+}
+
+.restaurant{
+	width: 90px;
+	height: 20ps;
+	font-size: 14px;
+	margin-left: 5px;
+	margin-top: 83px;
+	color: #5863F8;
+	font-weight: bold;
+	font-family: 'Open Sans';
+
+	}
+
+.explore{
+	width: 500px;
+	height: 115px;
+	font-size: 42px;
+	margin-top: 1px;
+	margin-left: 5px;
+	font-family: 'Lobster';
+
+	}
+
+
+.first-box{
+	display: inline-block;
+	width: 536px;
+	height: 190px;
+	background: #F8F8F8;
+	margin-left: 5px;
+
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.text1{
+	width: 220px;
+	height: 120px;
+	margin-left: 16px;
+	margin-top: 37px;
+	vertical-align: top;
+	display: inline-block;
+
+}
+.food{
+	color: #5863F8;
+	font-size: 14px;
+}
+.Fresh-food{
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.food2{
+	font-size: 14px;
+}
+.box2{
+    display: inline-block;
+	width: 536px;
+	height: 190px;
+	background: #F8F8F8;
+	margin-left: 5px;
+	margin-right: auto;
+	font-family: 'Open Sans', sans-serif;
+}
+.text2{
+	width: 220px;
+	height: 120px;
+	margin-left: 16px;
+	margin-top: 37px;
+	vertical-align: top;
+	display: inline-block;
+}
+.desert{
+	font-size: 14px;
+	color: #5863F8;
+}
+.fresh2{
+	font-size: 14px;
+	margin-top: 10px;
+}
+.blog{
+	width: 38px;
+	height: 20px;
+	margin-left: 5px;
+	color: #5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Open Sans';
+
+}
+
+.Read{
+ width: 465px;
+ height: 165px;
+ margin-left: 5px;
+ font-size: 42px;
+ font-family: 'Lobster';
+}
+
+.food-and-life{
+	display: inline-block;
+	width: 352px;
+	height: 350px;
+	margin-left: 5px;
+	background: #F8F8F8;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.food-and{
+	font-size: 14px;
+	color: #5863F8;
+	margin-top: 23px;
+	
+}
+.succed{
+	font-size: 18px;
+	margin-top: 5px;
+	
+}
+.from-familly{
+	font-size: 14px;
+	margin-top: 10px;
+	color: #B1B1B1;
+
+}
+.texs-food{
+	width: 260px;
+	margin-left: 46px;
+	
+}
+.Cooking-box{
+	width: 260px;
+	margin-left: 46px;
+	margin-top: 23px;
+}
+.Cooking-box1{
+	display: inline-block;
+	width: 352px;
+	height: 350px;
+	background: #F8F8F8;
+	vertical-align: top;
+	margin-left: 5px;
+	font-family: 'Open Sans', sans-serif;
+}
+.Cooking{
+	font-size: 14px;
+	color: #5863F8;
+
+}
+.text3{
+	font-size: 18px;
+	margin-top: 5px;
+}
+.text4{
+	font-size: 14;
+	color: #B1B1B1;
+	margin-top: 5px;
+}
+.fruits-box{
+	display: inline-block;
+	width: 352px;
+	height: 350px;
+	background: #F8F8F8;
+	vertical-align: top;
+	margin-left: 5px;
+	font-family: 'Open Sans', sans-serif;
+}
+.fruits3{
+	width: 260px;
+	margin-top: 23px;
+	margin-left: 46px;
+}
+.fru1{
+	font-size: 14px;
+	color: #5863F8;
+}
+.fresh3{
+	font-size: 18px;
+	margin-top: 5px;
+}
+.fresh4{
+	font-size: 14px;
+	margin-top: 5px;
+	color: #B1B1B1;
+}
+
+.back{
+	width: 500px;
+	height: 250ps;
+	margin-top: 70px;
+	margin-bottom: 60px;
+	margin-left: 5px;
+	color: gray;
+	
+}
+.qart1{
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.qart2{
+	font-size: 15ps;
+	font-family: 'BPG Arial';
+}
